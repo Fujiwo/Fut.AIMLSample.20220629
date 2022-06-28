@@ -73,6 +73,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CharacterRecognition.Python
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "59220"
+		SlnRelativePath = "CharacterRecognition.Python\"
 	EndProjectSection
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CopilotSample", "CopilotSample\", "{DA0121EA-EBF0-486C-9DB5-FA5D945547D7}"
@@ -93,6 +94,12 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CopilotSample", "CopilotSam
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "63088"
+		SlnRelativePath = "CopilotSample\"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{30A51A8C-B127-42D8-BAB2-0F146F510A14}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
