@@ -102,6 +102,26 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Fukui Weather", "Fukui Weather\", "{ACE22F5B-522F-45BE-AC9F-5669099E1CA8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50722"
+		Debug.AspNetCompiler.PhysicalPath = "Fukui Weather\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50722\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50722"
+		Release.AspNetCompiler.PhysicalPath = "Fukui Weather\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50722\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50722"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,6 +164,10 @@ Global
 		{DA0121EA-EBF0-486C-9DB5-FA5D945547D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA0121EA-EBF0-486C-9DB5-FA5D945547D7}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{DA0121EA-EBF0-486C-9DB5-FA5D945547D7}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{ACE22F5B-522F-45BE-AC9F-5669099E1CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE22F5B-522F-45BE-AC9F-5669099E1CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE22F5B-522F-45BE-AC9F-5669099E1CA8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE22F5B-522F-45BE-AC9F-5669099E1CA8}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
