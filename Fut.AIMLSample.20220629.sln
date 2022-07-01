@@ -120,6 +120,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Fukui Weather", "Fukui Weat
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "50722"
+		SlnRelativePath = "Fukui Weather\"
 	EndProjectSection
 EndProject
 Global
