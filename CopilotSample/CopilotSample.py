@@ -1,3 +1,4 @@
 # class Circle:
 # class Rectangle:
-# def quickSort():
+# def quickSort(array):
+	

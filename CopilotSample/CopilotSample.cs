@@ -1,4 +1,4 @@
-﻿using Sytem.Collections.Generic;
+﻿using System.Collections.Generic;
 
 // class Circle {}
 
@@ -13,9 +13,7 @@
 static class Algorithms
 {
     public static void QuickSort<T>(IList<T> array)
-    {
-        
-    }
+    { }
 }
 
 class Program
